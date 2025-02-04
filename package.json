@@ -1,0 +1,12 @@
+{
+  "name": "toquio",
+  "version": "1.0.0",
+  "description": "Este é um site informativo sobre Tóquio, criado com HTML, CSS e Bootstrap para oferecer uma experiência responsiva e estilizada. O site apresenta informações sobre a cidade, sua cultura, gastronomia, tradições e pontos turísticos imperdíveis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lucas Bruno <lucasmoura3108@gmail.com>",
+  "license": "MIT"
+}
